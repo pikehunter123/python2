@@ -1,7 +1,7 @@
 FROM python:2.7
 MAINTAINER Kononov Oleg "o.kononov@roseurobank.ru"
-ENV http_proxy http://okononov:famag5usta@91.217.102.73:3128
-ENV https_proxy http://okononov:famag5usta@91.217.102.73:3128
+#ENV http_proxy http://okononov:famag@91.217.102.173:3128
+#ENV https_proxy http://okononov:famag@91.217.102.173:3128
 #RUN export http_proxy=$http_proxy
 #RUN export https_proxy=$https_proxy
 #RUN apt-get update -y
